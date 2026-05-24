@@ -63,11 +63,11 @@ By completing this curriculum, you will be able to:
 
 | Project | Description | Duration | Impact |
 |---------|-------------|----------|---------|
-| **01** | [Enterprise AI Platform Architecture](projects/project-01-enterprise-platform/) | 80 hours | Company-wide |
-| **02** | [3-Year Technology Roadmap](projects/project-02-technology-roadmap/) | 60 hours | Strategic |
-| **03** | [Architecture Governance Framework](projects/project-03-governance-framework/) | 60 hours | Organizational |
-| **04** | [M&A Integration Architecture](projects/project-04-ma-integration/) | 60 hours | Business Critical |
-| **05** | [Thought Leadership Portfolio](projects/project-05-thought-leadership/) | 60 hours | Industry Impact |
+| **01** | Enterprise AI Platform Architecture _(planned)_ | 80 hours | Company-wide |
+| **02** | 3-Year Technology Roadmap _(planned)_ | 60 hours | Strategic |
+| **03** | Architecture Governance Framework _(planned)_ | 60 hours | Organizational |
+| **04** | M&A Integration Architecture _(planned)_ | 60 hours | Business Critical |
+| **05** | Thought Leadership Portfolio _(planned)_ | 60 hours | Industry Impact |
 
 ## 🚀 Getting Started
 
@@ -372,7 +372,7 @@ MIT License - See [LICENSE](LICENSE) for details
 ---
 
 **Ready to shape the future of AI infrastructure?** 🚀
-Begin with [Module 501: Enterprise Architecture Frameworks](lessons/mod-501-enterprise-architecture/)
+Begin with [Module 601: Org-Wide Architecture](lessons/mod-601-org-wide-architecture/)
 
 **Questions?** Open an issue or join our executive peer network!
 
