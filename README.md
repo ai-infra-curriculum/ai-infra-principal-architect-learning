@@ -6,6 +6,10 @@
 
 Welcome to the **Principal AI Infrastructure Architect Learning Repository**! This executive-level curriculum prepares architects for company-wide technical leadership, strategic architecture, and industry thought leadership.
 
+## ✨ What's new — 2026-05-27
+
+The `01-overview.md` lecture for every module (`mod-601-org-wide-architecture` through `mod-605-tech-debt-modernization`) has been expanded from a 5-line stub into a substantive 120-150 line lecture. Each covers the principal-architect altitude, the shift to designing-conditions-for-architecture rather than systems directly, the political layer, and what good looks like. Audit score: 69.
+
 ## 🎯 Learning Objectives
 
 By completing this curriculum, you will be able to:
