@@ -384,3 +384,9 @@ Begin with [Module 601: Org-Wide Architecture](lessons/mod-601-org-wide-architec
 **Version:** 1.0.0
 **Maintained by:** AI Infrastructure Curriculum Team
 **Contact:** ai-infra-curriculum@joshua-ferguson.com
+
+
+---
+
+<!-- aicg:maintained-by -->
+Maintained by [VeriSwarm.ai](https://veriswarm.ai)
